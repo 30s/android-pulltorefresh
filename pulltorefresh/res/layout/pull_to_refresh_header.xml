@@ -22,7 +22,7 @@
     android:gravity="center"
         android:id="@+id/pull_to_refresh_header"
     >
-    <ProgressBar 
+    <android.widget.ProgressBar 
         android:id="@+id/pull_to_refresh_progress"
         android:indeterminate="true"
         android:layout_width="wrap_content"
